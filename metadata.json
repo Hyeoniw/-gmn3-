@@ -1,0 +1,5 @@
+{
+  "name": "基于GMN3的图片生成网站Copy of Weave & Mosaic Studio",
+  "description": "An interactive artistic tool that transforms images into woven mosaic textures by cutting, shifting, and rearranging pixels without adding or removing any content.\n为互动网站添加自定义网格尺寸功能。用户可以选择2x2, 4x4, 8x8等不同尺寸的网格来重组图片，确保所有原始图像元素都被保留，只是位置发生改变。\n为互动网站的图片重组和拼接过程添加动画过渡效果。当用户上传图片后，图片块的切割、打乱和重新拼接过程应该以平滑、连贯的动画形式呈现，所有原始图像元素必须被保留，并且不能有任何添加或移除。\n为互动网站添加多种编织图案功能。在用户上传图片后，除了基本的马赛克重组，还应提供至少三种不同的编织图案选项（例如：平纹、斜纹、缎纹），用户可以选择一种来重新排列图像块，所有图像元素必须保留且不被添加。",
+  "requestFramePermissions": []
+}
